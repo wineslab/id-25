@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/id-25-website/static/css/main.ae1b723f.css",
+    "main.js": "/id-25-website/static/js/main.f3b76ea8.js",
+    "static/js/453.71612ca7.chunk.js": "/id-25-website/static/js/453.71612ca7.chunk.js",
+    "index.html": "/id-25-website/index.html",
+    "main.ae1b723f.css.map": "/id-25-website/static/css/main.ae1b723f.css.map",
+    "main.f3b76ea8.js.map": "/id-25-website/static/js/main.f3b76ea8.js.map",
+    "453.71612ca7.chunk.js.map": "/id-25-website/static/js/453.71612ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1b723f.css",
+    "static/js/main.f3b76ea8.js"
+  ]
+}
